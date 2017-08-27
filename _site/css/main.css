@@ -7,7 +7,7 @@
     background: #e0e0e0;
     padding: 1em 0.5em; }
   .recap h1 {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     margin: 0.5em 0.2em; }
   .recap p {
     margin: 0.2em;
@@ -25,6 +25,8 @@ body {
 .main {
   padding: 0 6em;
   text-align: center; }
+  .main .title {
+    font-size: 3rem; }
 
 a {
   text-decoration: none;
