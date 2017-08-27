@@ -1,9 +1,6 @@
 .recap {
-  padding: 0.5em 10em;
+  padding: 0.5em 6em;
   text-align: left; }
-  @media screen and (min-width: 640px) {
-    .recap {
-      padding: 0.5em 4em; } }
   .recap div {
     border: 0.1em #444 solid;
     border-radius: 5px;
@@ -47,10 +44,7 @@ a {
     font-style: italic; }
 
 .option {
-  padding: 0.5em 10em; }
-  @media screen and (min-width: 640px) {
-    .option {
-      padding: 0.5em 4em; } }
+  padding: 0.5em 6em; }
   .option p {
     border: 0.1em #444 solid;
     border-radius: 5px;

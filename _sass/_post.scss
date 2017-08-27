@@ -1,10 +1,6 @@
 .recap {
-  padding: 0.5em 10em;
+  padding: 0.5em 6em;
   text-align: left;
-
-  @media screen and (min-width: 640px) {
-    padding: 0.5em 4em;
-  }
 
   div {
     border: 0.1em #444 solid;
