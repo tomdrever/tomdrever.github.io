@@ -1,0 +1,12 @@
+---
+layout: default
+title: Species
+permalink: /species/
+---
+<div class="main">
+    <h1>List of species common to the galaxy</h1>
+
+    {% for species in site.data.species %}
+    <p><b>{{ species.name }}</b> - {{ species.description }}</p>
+    {% endfor %}
+</div>
