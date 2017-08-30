@@ -13,6 +13,11 @@
   description: Dashing freedom-seeking space-pirate
   playedby: Brandon
 
+- name: Shadow Baraki
+  species: a Human
+  description: Blue's large adopted brother. Strong and silent type
+  playedby: Brandon
+
 - name: Ystra
   species: a Lura
   description: Ex-slave, very... self-determined
@@ -22,3 +27,8 @@
   species: a Zoltan
   description: Diamond's fellow mercenary
   playedby: Callum
+
+- name: Iktoc
+  species: a Quelin
+  description: Wiry body for a Quelin, quite headstrong. A bouncer in the underground of Icarus
+  playedby: Max
