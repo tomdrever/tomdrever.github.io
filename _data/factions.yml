@@ -1,0 +1,20 @@
+- name: The Steppe Union
+  description: A scavenger / pirate / smuggler group. The PCs had a brief spat with them in Malenhavn Central Port, after they arrived in the sector at the start of the game.
+
+- name: The Order of Valhalla
+  description: A mysterious organisation of which Grigori, the human who was (and then wasn't) purchasing Tak's cargo, was a member.
+
+- name: Astrov Conglomerate
+  description: A spacetech construction company. Is beginning work on a dyson sphere, conscripted by the Federation.
+
+- name: Church of the Gilded Gods
+  description: New popular religious movement in the sector originating from Thorgunnav, in Rati.
+
+- name: The Akordan Sovereignty
+  description: A monarchy descended from some of the original Cudoxet colonies. A sort of vassal of the Federation.
+
+- name: Xetralone Corporation
+  description: Also from some of the original Cudoxet colonies; a massive corporation that owns a couple of systems. On uneasy terms with the Federation, but makes business selling vital pharmaceuticals and biological components.
+
+- name: Madhav Scientific Council
+  description: Scientific group. Operates the university-planet of Sperev, in Katla.

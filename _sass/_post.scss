@@ -1,4 +1,4 @@
-.recap {
+.post {
   padding: 0.5em 6em;
   text-align: left;
 
@@ -20,7 +20,10 @@
   }
 }
 
-.recap-full-post .info {
-  margin: 0.5rem;
-  font-weight: bold;
+.full-post {
+  .description {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 0.5em 0.2em;
+  }
 }

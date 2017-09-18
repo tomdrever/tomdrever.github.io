@@ -30,15 +30,15 @@ a {
   display: inline;
   
   .char-name {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
   }
 
   .char-desc {
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   .char-info {
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-style: italic;
   }
 }
@@ -53,4 +53,9 @@ a {
     padding: 1em 0.5em;
     font-size: 1.5rem;
   }
+}
+
+.strapline {
+  font-style: italic;
+  font-size: 1.1rem;
 }
