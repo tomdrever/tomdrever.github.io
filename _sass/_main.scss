@@ -17,7 +17,7 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #444;
 
   &:hover {
@@ -52,6 +52,10 @@ a {
     background: #e0e0e0;
     padding: 1em 0.5em;
     font-size: 1.5rem;
+
+    a {
+      text-decoration: none;
+    }
   }
 }
 

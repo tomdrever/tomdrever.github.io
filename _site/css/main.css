@@ -30,7 +30,7 @@ body {
     font-size: 3rem; }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #444; }
   a:hover {
     text-decoration: underline;
@@ -54,6 +54,8 @@ a {
     background: #e0e0e0;
     padding: 1em 0.5em;
     font-size: 1.5rem; }
+    .option p a {
+      text-decoration: none; }
 
 .strapline {
   font-style: italic;
