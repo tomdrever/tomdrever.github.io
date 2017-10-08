@@ -3,9 +3,9 @@
   description: Mercenary with rare genetic condition that gives him a crystalline structure coating his wings
   playedby: Jacob
 
-- name: Tak
-  species: an Aandrisk
-  description: Middle-managing slightly-illegal merchant
+- name: Nuel
+  species: an Utun
+  description: Journalist for the Galactic Broadcasting Corporation
   playedby: Ethan
 
 - name: Blue Tsukino
@@ -13,7 +13,17 @@
   description: Dashing freedom-seeking space-pirate
   playedby: Brandon
 
-- name: Shadow Baraki
+- name: Nova
+  species: a Zoltan
+  description: Now a member of Blue's pirate crew. Yaarrrrr. Wants to build power armour
+  playedby: Callum
+
+- name: Tak [Deceased]
+  species: an Aandrisk
+  description: Middle-managing slightly-illegal merchant
+  playedby: Ethan
+
+- name: Shadow Baraki [Out of action]
   species: a Human
   description: Blue's large adopted brother. Strong and silent type
   playedby: Brandon
@@ -22,11 +32,6 @@
   species: a Lura
   description: Ex-slave, very... self-determined
   playedby: Jamie
-
-- name: Nova
-  species: a Zoltan
-  description: Diamond's fellow mercenary
-  playedby: Callum
 
 - name: Iktoc [Deceased]
   species: a Quelin
